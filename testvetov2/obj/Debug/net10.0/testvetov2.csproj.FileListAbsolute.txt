@@ -1,0 +1,14 @@
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\bin\Debug\net10.0\testvetov2.exe
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\bin\Debug\net10.0\testvetov2.deps.json
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\bin\Debug\net10.0\testvetov2.runtimeconfig.json
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\bin\Debug\net10.0\testvetov2.dll
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\bin\Debug\net10.0\testvetov2.pdb
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\testvetov2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\testvetov2.AssemblyInfoInputs.cache
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\testvetov2.AssemblyInfo.cs
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\testvetov2.csproj.CoreCompileInputs.cache
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\testvetov2.dll
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\refint\testvetov2.dll
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\testvetov2.pdb
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\testvetov2.genruntimeconfig.cache
+C:\Users\Desislava\Desktop\code work\NUnitTesting\testvetov2\testvetov2\obj\Debug\net10.0\ref\testvetov2.dll

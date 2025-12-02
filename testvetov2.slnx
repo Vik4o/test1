@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TestVetov/TestVetov.csproj" />
+  <Project Path="testvetov2/testvetov2.csproj" />
+</Solution>
